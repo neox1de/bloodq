@@ -1,4 +1,5 @@
 # Bloodq - Blood Test Analyzer
+[![Netlify Status](https://api.netlify.com/api/v1/badges/260015dc-474a-4289-b4af-a1e042fa0d45/deploy-status)](https://app.netlify.com/sites/bloodq/deploys)
 
 Bloodq is a web application that analyzes blood test results using AI. It leverages multiple AI providers (Google Gemini, OpenAI, and Anthropic Claude) to provide comprehensive analysis of uploaded blood test images.
 
